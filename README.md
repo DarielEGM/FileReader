@@ -4,7 +4,7 @@ This project was built with JavaScript, HTML and CSS.
 
 The purpose of the application is to choose various notepad files and display their content on the console.
 
-✨ Main View✨
+## ✨**Main View**✨
 
 Here is an example of what the app looks like when it runs.
 ![image](https://github.com/DarielEGM/FileReader/assets/123778387/3d1ea882-0a75-47eb-afec-c7abf54a522c)
